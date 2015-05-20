@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Extensii Bluetooth</string>
   <string name="defaultname">Kit Mașină</string>
   <string name="bluetooth_remember_choice">Nu mai întreba din nou</string>
   <string name="acceptance_timeout_message">Acceptarea conexiunii de la %1$s a expirat</string>
